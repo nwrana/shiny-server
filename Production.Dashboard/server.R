@@ -16,7 +16,7 @@ library(DT) # create HTML data tables
 
 ### STEP2: LOAD DATA INTO R ###
 #data <- read.csv("./Production.Dashboard/data/data.csv", header=TRUE)
-data <- read.csv("/srv/shiny-server/Production.Dashboard/data/data.csv", header=TRUE)
+data <- read.csv("/home/nwrana/documents/shiny-server data/Production.Dashboard.data/data/data.csv", header=TRUE)
 #data <- read.csv("./data/data.csv", header=TRUE)
 #data <- read.csv("C:/Users/w15psnnw/Documents/3. R Programming/R-Shiny Apps/PRODUCTION RAW DATA/data.csv", header=TRUE)
 #data <- read.csv("/srv/shiny-server/PRODUCTION RAW DATA/data.csv", header=TRUE)
